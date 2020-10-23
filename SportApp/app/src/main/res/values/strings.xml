@@ -9,4 +9,5 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="realizar_la_mayor_cantidad_de_flexiones_de_brazos_posibles_en_un_minuto_manteniendo_una_buena_ejecuci_n_con_el_cuerpo_alineado_y_los_pies_juntos_las_manos_separadas_a_ancho_de_hombros_bajar_flexionando_brazos_e_inspirando_por_nariz_y_subir_extendiendo_brazos_y_exhalar_por_boca">Realizar la mayor cantidad de flexiones de brazos posibles en un minuto, manteniendo una buena ejecución. Con el cuerpo alineado y los pies juntos, las manos separadas a ancho de hombros, bajar flexionando brazos e inspirando por nariz, y subir extendiendo brazos y exhalar por boca.</string>
 </resources>

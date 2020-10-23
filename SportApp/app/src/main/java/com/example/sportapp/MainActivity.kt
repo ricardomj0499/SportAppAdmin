@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         iniciosesion1.setOnClickListener {
-            openInicioSesion()
+            openFlexiones()
         }
         registrarse1.setOnClickListener {
             openRegistro()
@@ -25,6 +25,12 @@ class MainActivity : AppCompatActivity() {
     }
     fun openRegistro() {
         val intent = Intent(this, Registro::class.java)
+        startActivity(intent)
+    }
+
+
+    fun openFlexiones() {
+        val intent = Intent(this, flexiones::class.java)
         startActivity(intent)
     }
 }
